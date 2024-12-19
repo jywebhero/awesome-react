@@ -43,6 +43,16 @@ React state management library & resources
 - [Zustand ](https://github.com/pmndrs/zustand) - A small, fast and scalable bearbones state-management solution using simplified flux principles. Has a comfy API based on hooks, isn't boilerplatey or opinionated..
 - [Immer](https://github.com/immerjs/immer) - Create the next immutable state tree by simply modifying the current tree..
 - [Jotai](https://github.com/pmndrs/jotai) - Primitive and flexible state management for React..
+### Frameworks
+
+React frameworks to create modern web applications.
+
+- [Next.js](https://github.com/vercel/next.js) - Used by some of the world's largest companies, Next.js enables you to create full-stack web applications by extending the latest React features, and integrating powerful Rust-based JavaScript tooling for the fastest builds..
+### Build Tools
+
+React professional build tools to create applications
+
+- [Vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It significantly improves the frontend development experience..
 ### Forms
 
 React form components
@@ -54,3 +64,18 @@ React form components
 React table components
 
 - [TanStack-Table](https://github.com/TanStack/table) - TanStack Table is a headless table library, which means it does not ship with components, markup or styles. .
+### Charts
+
+React simple, professional and easy to use chart libraries.
+
+- [Ant Design Charts](https://github.com/ant-design/ant-design-charts) - A pretty, lightweight and responsive react chart library based on antv..
+### Animation Libraries
+
+React animation libraries to cast your ideas.
+
+- [react-spring](https://github.com/pmndrs/react-spring) - A cross-platform spring-physics first animation library. Giving you flexible tools to confidently cast your ideas.
+### renderers
+
+React renders for 3d & video & pdf etc
+
+- [react-three-fiber](https://github.com/pmndrs/react-three-fiber) - A React renderer for Three.js..
